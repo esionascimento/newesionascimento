@@ -1,0 +1,18 @@
+.esquerda {
+  margin: 10px;
+  border: 1px solid black;
+}
+
+.direita {
+  margin: 10px;
+  border: 1px solid black;
+}
+
+.rede-social {
+  text-align: center;
+}
+
+ion-icon {
+  padding: 5px;
+  font-size: 30px;
+}
